@@ -1,0 +1,8 @@
+ul{
+    /* list-style-type: square; */
+    list-style-image: url("https://upload.wikimedia.org/wikipedia/commons/b/ba/Rotating-red-magenta-ruby-star.gif");
+    margin-left: 500px;
+}
+li::marker{
+    width: 10px;
+}
